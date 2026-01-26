@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub 👋
 
-Je suis étudiant en MIASHS parcours mathématiques appliquées, passionné par la **statistique**, l’**analyse des données** la **programmatio** et la **Data Science** d'une façon générale
+Je suis étudiant en MIASHS parcours mathématiques appliquées, passionné par la **statistique**, l’**analyse des données** la **programmation** et la **Data Science** d'une façon générale
 
 ##  Ce que je fais
 - J'apprends et améliore mon niveau en **Python**.
