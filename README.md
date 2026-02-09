@@ -1,17 +1,19 @@
-# Bienvenue sur mon GitHub 👋
+# Welcome on my GitHub 👋
 
-Je suis étudiant en MIASHS parcours mathématiques appliquées, passionné par la **statistique**, l’**analyse des données** la **programmation** et la **Data Science** d'une façon générale
+# About Me
 
-##  Ce que je fais
-- J'apprends et améliore mon niveau en **Python**.
-- Je fais progresser mes compétences en **Apprentissage Statistique** à travers des projets pratiques.  
-- Je partage mes **projets personnels** : analyses de données, visualisations, exercices et algorithmes.
+I am a student passionate about **Statistics** and **Machine Learning**, with a strong interest in understanding the **theoretical foundations** behind every concept. My goal is not just to apply methods, but to deeply grasp why they work and how they can be extended.
 
-## Repositories
-Vous trouverez ici :
-- Des projets académiques en **R et Python**  
-- Des projets personnels et exercices pratiques  
-- Travaux d’analyse et visualisation de datasets réels  
+This repository showcases my **self-driven projects** exploring statistical concepts, machine learning techniques, and real-world datasets. Each project demonstrates my ability to **analyze data, implement models, and interpret results**, while reflecting my curiosity and rigor in learning.
 
-##  Objectif
-Mon objectif est de **renforcer mes compétences en Statistique, Econométrie et programmation** et de construire un portfolio solide pour le domaine de la Data Science et l'Intillegence Artificielle
+## Highlights
+
+- Projects illustrating **core statistical methods** (e.g., ANOVA, regression, probability theorems).  
+- **Machine Learning experiments** in Python and R, including model building and evaluation.  
+- Work with **real datasets**, demonstrating data cleaning, visualization, and analysis.  
+- Notes and proofs for key theoretical results, showing attention to **conceptual understanding**.
+
+I created this repository to document my work, share my approach, and provide evidence of my **analytical skills and motivation** for advanced studies in statistics and data science.
+
+##  Goal
+My goal is to strengthen my skills in Statistics, Econometrics, and programming and to build a strong portfolio for the field of Data Science and Artificial Intelligence.
